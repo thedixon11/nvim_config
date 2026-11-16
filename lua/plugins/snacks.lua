@@ -1,6 +1,7 @@
 return {
   "folke/snacks.nvim",
   opts = {
+    image = { enabled = true },
     styles = {
       terminal = {
         position = "right",
