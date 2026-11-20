@@ -11,6 +11,9 @@ return {
     picker = {
       sources = {
         explorer = {
+          layout = {
+            preview = "main",
+          },
           win = {
             list = {
               keys = {
